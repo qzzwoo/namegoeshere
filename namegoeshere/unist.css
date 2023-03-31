@@ -3,6 +3,9 @@ body {
     margin: 0;
     padding: 140px;
     font-family: 'Poppins', sans-serif;
+    
+    display: flex;
+    justify-content: center;
 }
 
 html {
