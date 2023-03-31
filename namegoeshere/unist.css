@@ -1,0 +1,43 @@
+body {
+    background-color: #03070a;
+    margin: 0;
+    padding: 140px;
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+p {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.main_h1 {
+    margin: 0px;
+    width: 900px;
+
+    font-size: 72px;
+    color: #fff;
+    font-family: 'Roboto Mono', monospace;
+    background-image: linear-gradient(#b194d627, #03070a);
+    border-radius: 10px;
+}
+
+.tagline {
+    width: 550px;
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.login {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 12px;
+    background-color: rgb(0, 60, 255);
+    border-radius: 5px;
+
+    float: right;
+}
