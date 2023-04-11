@@ -1,5 +1,2 @@
-var name = " name goes here ";
-document.getElementById(cname) = name
-
-// id cname == var name
-// windows on load
+var uname = document.getElementById(uname)
+var pass = document.getElementById(pass)
