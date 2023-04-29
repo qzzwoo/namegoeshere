@@ -1,11 +1,8 @@
 // Consolas
 
 function logIn() {
-
-var uname = document.getElementById(uname)
-var pass = document.getElementById(pass)
-
-console.log(uname)
-console.log(pass)
-
+    const username = document.querySelector('#uname').value;
+    const password = document.querySelector('#pass').value;
+    console.log(username)
+    console.log(password)
 }
